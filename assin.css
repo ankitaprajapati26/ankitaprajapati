@@ -1,0 +1,51 @@
+*{
+margin:0px;
+}
+body{
+background-color:white;
+
+}
+header{
+display:flex;
+justify-content:space-between;
+margin:3px;
+paddind:5px;
+align-items:center;
+}
+
+#logolink a{
+margin:10px;
+text-decoration:none;
+color:black;
+padding:10px;
+font-size:15pt;
+}
+a:hover{
+background-color:gray;
+border-radius:3px;
+}
+.active{
+border-bottom:solid purpel;
+}
+#ab{
+display:flex;
+
+justify-content:space-around;
+
+
+}
+#grad{
+background-image:linear-gradient(to right,green,darkgreen);
+background-clip:text;
+-webkit-text-fill-color:transparent;
+}
+section h3{
+font-size:15pt;}
+
+#btn a.bg-p{
+background-color:purple;
+}
+
+.img1{
+height:20px;
+}
