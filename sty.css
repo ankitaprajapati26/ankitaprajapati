@@ -1,0 +1,37 @@
+*{margin:0px;
+}
+body{
+background-color:white;
+color:white;
+}
+header{
+display:flex;
+justify-content:space-between;
+padding:5px 100px;
+color:white;
+align-items:center;
+}
+#logolink{
+display:flex;
+align-items:center;
+}
+#logolink h1{
+margin-right:50px;
+}
+h1{
+color:white;
+}
+a{
+color:white;
+text-decoration:none;
+margin-right:20px;
+padding:5px 20px;
+background-color:red;
+transition:all 1s;}
+sectionh1{
+font-size:55pt;
+}
+section p{
+margin:30px opx;
+font-size:18pt;
+}
