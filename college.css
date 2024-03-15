@@ -3,13 +3,12 @@ body
 margin:0px;
 padding:0px;
 box-sizing:border-box;
-
 width:1500;
 
 }
 html,body{
 font-family:robot,sens-serif,ariel;
-font-size:16px;
+font-size:20px;
 color:#242424;
 }
 .container{
@@ -18,12 +17,12 @@ margin:0px auto;
 }
 .header{
 display:flex;
-background-color:skyblue;
+background-color:black;
 
 }
 .header b{
 background:white;
-color:red;
+color:white;
 padding:0px;
 font-size:20px;
 justify-content:center;
@@ -31,10 +30,7 @@ justify-content:center;
 h1{
 color:red;
 }
-img{
-height:100;
-width:100;
-}
+
 .h2{
 display:flex;
 justify-content:end;
@@ -50,4 +46,22 @@ margin-right:80px;
 display:flex;
 width:1600px;
 height:600px;
+}
+td{
+display:flex;
+width:60;
+height:50;
+margin:20px;
+}
+
+.abc{
+display:flex;
+}
+.img3{
+display:flex;
+width:500px;
+height:300px;
+}
+.pqr{
+display:flex;
 }
